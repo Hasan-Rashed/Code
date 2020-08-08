@@ -10,7 +10,7 @@ int main(void)
     cin >> a >> b;
 
     c = a + b;
-    cout << "the addition is: " << c;
+    cout << "the addition is: \n" << c;
 
 
     return 0;
